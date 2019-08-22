@@ -40,7 +40,7 @@
   "server_session_secret": "exiKdyF+IwRIXJDmtGIl4vWUz4i3eVSISpfZoeYc0s4=",
   "session_cookie_key": "stm",
   "session_key": "steemses",
-  "site_domain": "steemit.com",
+  "site_domain": "bloque64.com",
   "telesign": {
     "customer_id": false,
     "rest_api_key": false
