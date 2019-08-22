@@ -20,7 +20,7 @@
     "reportOnly": false,
     "setAllHeaders": true
   },
-  "img_proxy_prefix": "https://steemitdevimages.com/",
+  "img_proxy_prefix": "https://steemitimages.com/",
   "ipfs_prefix": false,
   "mixpanel": false,
   "notify": {
@@ -38,9 +38,9 @@
     }
   },
   "server_session_secret": "exiKdyF+IwRIXJDmtGIl4vWUz4i3eVSISpfZoeYc0s4=",
-  "session_cookie_key": "stm-dev",
+  "session_cookie_key": "stm",
   "session_key": "steemses",
-  "site_domain": "steemitdev.com",
+  "site_domain": "steemit.com",
   "telesign": {
     "customer_id": false,
     "rest_api_key": false
